@@ -1,0 +1,11 @@
+Package: doubleminusone
+Type: Package
+Title: Doubles a number and subtracts 1
+Version: 0.1.0
+Author: Bharath Vittal
+Maintainer: The package maintainer <bharath.vittal@adqvest.com>
+Description: Takes a number. Doubles it, removes 1 from it and returns the number.
+License: GPL-2
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.1.1
